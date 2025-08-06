@@ -1,5 +1,4 @@
 ---
-layout: doc
 title: How do I log in to jamboree.ch?
 nav_order: 2
 ---
