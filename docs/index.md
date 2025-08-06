@@ -2,6 +2,7 @@
 title: Welcome
 nav_order: 2
 layout: default
+nav_exclude: true
 ---
 
 # Welcome to the Jamboree IT Documentation
