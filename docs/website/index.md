@@ -1,6 +1,7 @@
 ---
 title: Website Help Articles
 nav_order: 1
+layout: default
 ---
 
 # Website Help Articles
