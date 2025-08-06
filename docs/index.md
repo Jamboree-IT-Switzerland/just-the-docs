@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: Welcome
+nav_order: 1
 ---
 
 # Welcome to the Jamboree IT Documentation
