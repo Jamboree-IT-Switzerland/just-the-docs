@@ -1,5 +1,4 @@
 ---
-layout: doc
 title: Website Help Articles
 nav_order: 1
 ---
