@@ -12,7 +12,7 @@ If you have any question please do not hesitate to contact our Support Team in E
 You can contact us directly using this form:
 [Form](https://jamboree.ch/2027/contact/it){: .btn }
 
-{: .warning }
+{: .warning } 
 The form isn't active at the moment.
 
 ## Teams
@@ -20,7 +20,7 @@ If you still can access your Microsoft 365 Account, please contact Vivo or Ph&ou
 
 ## E-Mail
 
-{: .highlight }
+{: .highlight } 
 Please only send an email if Teams is not working.
 
 You can contact us over `it@jamboree.ch`.
