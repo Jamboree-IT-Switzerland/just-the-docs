@@ -19,6 +19,7 @@ The form isn't active at the moment.
 If you still can access your Microsoft 365 Account, please contact Vivo or Ph&ouml;nix directly over Teams. Just open a Chat.
 
 ## E-Mail
+
 {: .highlight }
 Please only send an email if Teams is not working.
 
