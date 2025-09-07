@@ -1,6 +1,7 @@
 ---
 title: Vaultwarden - Password Manager
 nav_order: 3
+parent: IT Tools
 layout: default
 ---
 

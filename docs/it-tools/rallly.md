@@ -1,5 +1,6 @@
 ---
 title: Rallly - Group Scheduling Tool
+parent: IT Tools
 nav_order: 3
 layout: default
 ---
