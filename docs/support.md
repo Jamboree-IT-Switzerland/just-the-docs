@@ -1,7 +1,7 @@
 ---
 title: Support
 layout: default
-nav_order: 4
+nav_order: 99
 ---
 
 # IT Support for the Swiss Contingetn Jamboree 2027
