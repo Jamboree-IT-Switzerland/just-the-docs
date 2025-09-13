@@ -3,6 +3,7 @@ title: CMT | Where do I store the data?
 parent: Microsoft
 nav_order: 5
 layout: default
+last_modified_date: 2025-09-13
 ---
 
 # Where do I store the data? | CMT
