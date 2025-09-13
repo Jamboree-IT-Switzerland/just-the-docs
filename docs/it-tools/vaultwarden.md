@@ -1,6 +1,5 @@
 ---
 title: Vaultwarden - Password Manager
-nav_order: 3
 parent: IT Tools
 layout: default
 last_modified_date: 2025-09-13
