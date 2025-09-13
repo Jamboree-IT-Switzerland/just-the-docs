@@ -2,7 +2,6 @@
 title: Microsoft
 nav_order: 3
 layout: default
-nav_exclude: true
 ---
 
 # Microsoft

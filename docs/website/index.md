@@ -1,7 +1,7 @@
 ---
 title: Website
-nav_order: 5
 layout: default
+nav_order: 5
 ---
 
 # Website Help Articles

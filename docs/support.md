@@ -1,7 +1,7 @@
 ---
 title: Support
 layout: default
-last_modified_date: 2025-09-13
+nav_order: 4
 ---
 
 # IT Support for the Swiss Contingetn Jamboree 2027
