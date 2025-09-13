@@ -2,7 +2,6 @@
 title: Home
 layout: home
 nav_order: 1
-last_modified_date: 2025-09-13
 ---
 
 # Welcome to the Jamboree IT Documentation

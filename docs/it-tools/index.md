@@ -1,9 +1,8 @@
 ---
 title: IT Tools
 layout: default
-nav_order: 3
+nav_order: 4
 nav_exclude: true
-last_modified_date: 2025-09-13
 ---
 
 # IT Tools

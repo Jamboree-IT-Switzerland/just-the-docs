@@ -2,7 +2,6 @@
 title: Rallly - Group Scheduling Tool
 parent: IT Tools
 layout: default
-last_modified_date: 2025-09-13
 ---
 
 # Rallly
