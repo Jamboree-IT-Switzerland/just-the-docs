@@ -10,6 +10,7 @@ If you have any question please do not hesitate to contact our Support Team in E
 
 ## Support Form
 You can contact us directly using this form:
+
 [Form](https://jamboree.ch/2027/contact/it){: .btn }
 
 {: .warning }
