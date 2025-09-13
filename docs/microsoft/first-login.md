@@ -2,6 +2,7 @@
 title: First Login into Microsoft 365
 parent: Microsoft
 layout: default
+nav_order: 11
 ---
 
 # First Login to Your Microsoft 365 Account

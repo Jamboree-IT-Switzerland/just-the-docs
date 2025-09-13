@@ -2,6 +2,7 @@
 title: How do I log in to jamboree.ch?
 layout: default
 parent: Website
+nav_order: 51
 ---
 
 # How do I log in to jamboree.ch?
