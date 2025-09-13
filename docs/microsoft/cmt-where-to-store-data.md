@@ -1,5 +1,6 @@
 ---
 title: CMT | Where do I store the data?
+nav_order: 12
 parent: Microsoft
 layout: default
 ---
