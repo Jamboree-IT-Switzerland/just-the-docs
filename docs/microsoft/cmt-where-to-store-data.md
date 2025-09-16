@@ -18,7 +18,7 @@ The following overview shows you clearly where each type of data belongs:
 
 ---
 
-### Do you need a new folder?
+### Requesting a new folder in the main or GENERAL folder
 Please contact us – do not create a folder yourself.
 
 If anything is unclear, feel free to reach out to us via Teams.
