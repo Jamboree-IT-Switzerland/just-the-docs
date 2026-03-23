@@ -1,0 +1,9 @@
+// Farbüberschreibungen für just-the-docs
+// Diese Datei wird VOR dem Theme geladen — hier SCSS-Variablen überschreiben.
+
+$body-background-color: #b4c1b2;   // Hauptinhalt Hintergrund
+$sidebar-color:          #8fa38c;   // Menü / Sidebar Hintergrund
+$body-text-color:        #191919;   // Normaler Text
+$body-heading-color:     #1e4618;   // Überschriften (h1, h2, ...)
+$link-color:             #1e4618;   // Linkfarbe
+$nav-child-link-color:   #43653e;   // Untermenü-Links

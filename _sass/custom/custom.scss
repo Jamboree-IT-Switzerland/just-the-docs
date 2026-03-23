@@ -1,20 +1,6 @@
-// Custom color overrides for just-the-docs
-// Docs: https://just-the-docs.com/docs/customization/
+// Zusätzliche CSS-Anpassungen (wird NACH dem Theme geladen)
+// Für Farbvariablen: _sass/custom/setup.scss verwenden!
 
-:root {
-  // ----- Hintergrund -----
-  --body-background-color: #b4c1b2;       // Hauptinhalt Hintergrund
-  --sidebar-color: #8fa38c;              // Menü / Sidebar Hintergrund
-
-  // ----- Text & Titel -----
-  --body-text-color: #191919;            // Normaler Text
-  --body-heading-color: #1e4618;         // Überschriften (h1, h2, ...)
-
-  // ----- Links -----
-  --link-color: #1e4618;                 // Linkfarbe
-  --link-color-visited: #142f10;         // Besuchte Links
-
-  // ----- Navigation (Menü) -----
-  --nav-child-link-color: #43653e;       // Untermenü-Links
-  --nav-width: 264px;                    // Breite des Seitenmenüs
+a:visited {
+  color: #142f10;
 }
