@@ -43,6 +43,11 @@ Please save your password in a password manager.
 
 ## 4. Set Up Multi-Factor Authentication (MFA)
 You will be prompted to set up **Multi-Factor Authentication**.  
+
+For a step-by-step guide, download the MFA setup guide in your language:
+- [MFA Setup Guide (Deutsch)]({{ site.baseurl }}/assets/docs/MFA_DE.pdf)
+- [MFA Setup Guide (Français)]({{ site.baseurl }}/assets/docs/MFA_FR.pdf)
+
 Follow the on-screen instructions and install the **Microsoft Authenticator App** on your smartphone:  
 - [iOS (App Store)](https://apps.apple.com/app/microsoft-authenticator/id983156458)  
 - [Android (Google Play)](https://play.google.com/store/apps/details?id=com.azure.authenticator)
