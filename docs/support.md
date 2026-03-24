@@ -12,6 +12,7 @@ If you have any question please do not hesitate to contact IT Support. We'll rep
 If you still can access your Microsoft 365 Account, please contact Vivo or Ph&ouml;nix directly over Teams. Just open a Chat.
 
 ## E-Mail
+
 {: .warning }
 Please only send an email if Teams is not working.
 
