@@ -55,7 +55,7 @@ Follow the on-screen instructions and install the **Microsoft Authenticator App*
 ---
 
 ## 5. Adding Signature
-Please configure your own **signature** using our signature generator here: [Open Jamboree Signature Tool](https://jamboree-it-switzerland.github.io/signaturTool/){.button}
+Please configure your own **signature** using our signature generator here: [Open Jamboree Signature Tool](https://jamboree-it-switzerland.github.io/signaturTool/){: .btn target="_blank" rel="noopener noreferrer"}
 
 After generating the signature, you can copy & paste the content to [outlook.office.com](https://outlook.office.com) and to your local e-mail application.
 
