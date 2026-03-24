@@ -54,5 +54,12 @@ Follow the on-screen instructions and install the **Microsoft Authenticator App*
 
 ---
 
-## 5. Support & Help
+## 5. Adding Signature
+Please configure your own **signature** using our signature generator here: [Open Jamboree Signature Tool](https://jamboree-it-switzerland.github.io/signaturTool/){.button}
+
+After generating the signature, you can copy & paste the content to [outlook.office.com](https://outlook.office.com) and to your local e-mail application.
+
+---
+
+## 6. Support & Help
 If you have issues logging in, please reach out to your direct responsible person (as listed in the organisation chart) or contact Jamboree IT.

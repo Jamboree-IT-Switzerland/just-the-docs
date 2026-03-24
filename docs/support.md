@@ -24,4 +24,4 @@ If you still can access your Microsoft 365 Account, please contact Vivo or Ph&ou
 {: .highlight }
 Please only send an email if Teams is not working.
 
-You can contact us over `it@jamboree.ch`.
+You can contact us over `it[ät]jamboree.ch`.

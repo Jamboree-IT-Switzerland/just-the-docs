@@ -4,7 +4,7 @@ parent: IT Tools
 layout: default
 ---
 
-# Rallly
+# Rallly - our Doodle alternative
 
 We can use the group scheduling tool instead (e.g., Doodle), which is run by the Swiss Scout and Guide Movement.
 In this article, you'll find documentation on how to sign up, log in, or create a new poll.
